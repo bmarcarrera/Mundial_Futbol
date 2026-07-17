@@ -1,6 +1,6 @@
-# ⚽ Mundial_Futbol
+# ⚽ Mundial de Fútbol
 
-[![Open In Colab](https://google.com/bmarcarrera/Mundial_Futbol/blob/main/Ganadores_de_mundiales_y_caracteristicas.ipynb)]
+[![Open In Colab](https://google.com)](https://google.com)
 
 ¡Hola! Te doy la bienvenida a mi repositorio. Aquí encontrarás contenido relacionado con todos los Mundiales de Fútbol desde su creación hasta 2022. 
 
