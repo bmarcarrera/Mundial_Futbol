@@ -1,7 +1,5 @@
 # ⚽ Mundial de Fútbol
 
-[![Open In Colab](https://github.com/bmarcarrera/Mundial_Futbol/blob/main/Ganadores_de_mundiales_y_caracteristicas.ipynb)
-
 ¡Hola! Te doy la bienvenida a mi repositorio. Aquí encontrarás contenido relacionado con todos los Mundiales de Fútbol desde su creación hasta 2022. 
 
 Por el momento, he incluido un archivo con los ganadores de cada edición junto a diferentes características asociadas. Iré subiendo más contenido y análisis a medida que lo vaya elaborando.
